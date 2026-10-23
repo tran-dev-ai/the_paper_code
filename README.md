@@ -52,7 +52,7 @@ pip install numpy==1.26.4 pandas==2.2.3 scikit-learn==1.6.1 hmmlearn==0.3.3 scip
 jupyter nbconvert --to notebook --execute paper_notebook.ipynb
 ```
 
-The run takes roughly 40–90 minutes on 24 CPU cores and is dominated by the 288-configuration grid. All random seeds are fixed. The two-state model and all statistical tests reproduce exactly across machines. Fits of the larger multivariate models can differ marginally between machines, because the EM algorithm is not reproducible bit-for-bit across hardware and BLAS libraries (for example, one observation in the representative K = 6 fit).
+The run takes about 90 minutes on 24 CPU cores and is dominated by the 288-configuration grid. All random seeds are fixed. The two-state model and all statistical tests reproduce exactly across machines. Fits of the larger multivariate models can differ marginally between machines, because the EM algorithm is not reproducible bit-for-bit across hardware and BLAS libraries (for example, one observation in the representative K = 6 fit).
 
 ## Citation
 
