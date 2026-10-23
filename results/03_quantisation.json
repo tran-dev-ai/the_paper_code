@@ -1,0 +1,13 @@
+{
+  "pct_dV6_exact_zero": 52.15249355767774,
+  "pct_dV24_exact_zero": 17.81861400621686,
+  "pct_dV6_near_zero_smoother": 18.099135970895862,
+  "pct_dV6_near_zero_filter": 22.930877671668938,
+  "k6_covariance": "full",
+  "k6_states_fully_absorbing": 1,
+  "k6_pct_obs_in_absorbing": 19.995349918623575,
+  "k6_max_frac_zero": 1.0,
+  "k6_n_obs_decoded": 21505,
+  "k6_largest_state_n": 11296,
+  "k6_largest_state_frac_zero": 0.6081798866855525
+}

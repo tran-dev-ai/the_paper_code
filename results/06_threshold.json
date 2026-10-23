@@ -1,0 +1,8 @@
+{
+  "overlap_min_kt": 50.0,
+  "overlap_max_kt": 65.0,
+  "minority_n": 353,
+  "n_assigned": 27910,
+  "minority_pct": 1.2647796488713723,
+  "implied_threshold_kt": 60.0
+}

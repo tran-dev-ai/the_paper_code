@@ -1,0 +1,32 @@
+{
+  "rows_raw": 44950,
+  "rows_dup_dropped": 92,
+  "obs_working": 28156,
+  "storms_working": 1220,
+  "min_MaxWind_present": 35.0,
+  "MaxWind_on_5kt_lattice": true,
+  "timestep_pct": {
+    "6.0": 80.836,
+    "3.0": 17.909,
+    "1.0": 0.601,
+    "2.0": 0.531,
+    "30.0": 0.022,
+    "18.0": 0.019,
+    "4.0": 0.019,
+    "5.0": 0.011,
+    "36.0": 0.011,
+    "42.0": 0.007
+  },
+  "pct_step_not_6h": 19.163944163944166,
+  "label_rowshift_n": 23338,
+  "label_rowshift_base": 3.0722426943182795,
+  "label_timebased_n": 21876,
+  "label_timebased_base": 3.364417626622783,
+  "pct_dV24_differs": 12.297705037944592,
+  "n_RI_rowshift": 717,
+  "n_RI_timebased": 736,
+  "corr_mpi_gap_variants": 0.998865041469937,
+  "n_train": 22580,
+  "n_valid": 3196,
+  "n_test": 2380
+}

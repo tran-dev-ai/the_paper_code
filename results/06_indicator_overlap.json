@@ -1,0 +1,12 @@
+{
+  "n_test": 19198,
+  "n_transition": 670,
+  "n_transition_causal": 708,
+  "n_threshold": 759,
+  "pct_agree_transition_threshold": 99.53641004271279,
+  "pct_agree_causal_threshold": 94.47338264402542,
+  "n_threshold_only": 89,
+  "n_threshold_only_RI": 0,
+  "mean_future_dV24_threshold_only": -6.235955056179775,
+  "n_transition_only": 0
+}

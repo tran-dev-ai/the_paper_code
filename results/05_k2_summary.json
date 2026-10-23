@@ -1,0 +1,21 @@
+{
+  "emission_mu_high": 76.36243748082407,
+  "emission_mu_low": 44.67209298733127,
+  "emission_sd_high": 13.776508831762989,
+  "emission_sd_low": 7.112840614645394,
+  "n_total": 28156,
+  "n_assigned": 27910,
+  "n_unassigned": 246,
+  "pct_unassigned": 0.8737036510868021,
+  "base_rate": 3.364417626622783,
+  "pct_viterbi_filter_agree": 94.98387674668578,
+  "pct_steps_six_hourly": 80.83605583605583,
+  "cross": 0.09598124150099377,
+  "cross_ci": [
+    0.09146011821769211,
+    0.10034352300256319
+  ],
+  "dwell_median_high": 96.0,
+  "dwell_median_low": 42.0,
+  "boundary_crossing_freq": 0.04850055534987042
+}

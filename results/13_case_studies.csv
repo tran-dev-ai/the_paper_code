@@ -1,0 +1,4 @@
+storm,year,storm_id,n_records,peak_kt,hours_to_peak,first_high_class_h,n_RI_records,RI_hours,RI_winds
+Haiyan,2013,1330_2013,29,125.0,84.0,30.0,6,"[18.0, 24.0, 30.0, 36.0, 42.0, 48.0]","[45, 55, 60, 65, 75, 85]"
+Surigae,2021,2102_2021,45,120.0,96.0,42.0,1,[72.0],[90]
+Trami,2018,1824_2018,52,105.0,84.0,30.0,0,[],[]

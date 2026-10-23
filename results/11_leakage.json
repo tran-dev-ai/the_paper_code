@@ -1,0 +1,9 @@
+{
+  "pr_auc_noncausal": 0.5460538986815309,
+  "pr_auc_causal": 0.10802093639235752,
+  "auc_noncausal": 0.9531583233161425,
+  "auc_causal": 0.8339602155957966,
+  "corr_smoother_residual": 0.5496090769785478,
+  "corr_filter_residual": -0.3759774805424015,
+  "pr_auc_ratio": 5.055074663472036
+}
