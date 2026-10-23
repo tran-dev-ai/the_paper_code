@@ -45,8 +45,6 @@ These files are not included in this repository. The underlying data are publicl
 - JMA best track: https://www.jma.go.jp/jma/jma-eng/jma-center/rsmc-hp-pub-eg/trackarchives.html
 - ERA5 and ORAS5: Copernicus Climate Change Service Climate Data Store, https://cds.climate.copernicus.eu
 
-The merged input files are available from the corresponding author on reasonable request.
-
 ## Running
 
 ```bash
